@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+*.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.html
+/dev/
+/history/
+/data/
+sessionInfoLog
+sessionInfoLog-Elektra
+sessionInfoLog-GAMING-TOWER
